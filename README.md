@@ -10,10 +10,7 @@ Descrição em português.<br/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
   <br/>
-  <h3 align="center">Currently working on / Atualmente trabalhando em</h3>
-  <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/-And%201%20Other%20Project-lightgrey"></a>
-  <br/><br/>
+  <br/>
   If you want to contact me, you can email me at luanillogical@gmail.com or send me a message on Discord (luanillogical).<br/>
   Se você quiser entrar em contato comigo, você pode me mandar um email (luanillogical@gmail.com) ou me mandar uma mensagem no Discord (luanillogical).<br/>
   <br/><br/>    
