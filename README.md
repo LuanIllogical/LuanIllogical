@@ -1,3 +1,17 @@
+<!-- gud-repo-groups-start -->
+
+faculdade:
+- calc-quinta
+- Metalizar
+- notificacoes
+- pub-sub-store
+- micro-livraria
+
+fun:
+- luanillogical.github.io 
+
+<!-- gud-repo-groups-end -->
+
 <h2 align="center">Hi there! / Olá!</h2>
 
 <div align="center">
