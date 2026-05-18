@@ -1,4 +1,5 @@
-<!-- gud-repo-groups-start -->
+<!--
+gud-repo-groups-start
 
 faculdade:
 - calc-quinta
@@ -10,7 +11,8 @@ faculdade:
 fun:
 - luanillogical.github.io 
 
-<!-- gud-repo-groups-end -->
+gud-repo-groups-end
+-->
 
 <h2 align="center">Hi there! / Olá!</h2>
 
