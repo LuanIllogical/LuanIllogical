@@ -1,21 +1,55 @@
-<h2 align="center">Hi there! / Olá!</h1>
+<h2 align="center">Hi there! / Olá!</h2>
 
-<p align="center">
-English description.<br/>
-Descrição em português.<br/>
-</p>
-  <h3 align="center">Languages I've used / Linguagens que eu já usei</h3>
-  <p align="center">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
-  <br/>
-  <br/>
-  If you want to contact me, you can email me at luanillogical@gmail.com or send me a message on Discord (luanillogical).<br/>
-  Se você quiser entrar em contato comigo, você pode me mandar um email (luanillogical@gmail.com) ou me mandar uma mensagem no Discord (luanillogical).<br/>
-  <br/><br/>    
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuanIllogical&card_width=240&theme=tokyonight&count_private=true"/>
-</a>‎‎‎‎‎‎‎‎‎‎‎‎‎
+<div align="center">
+  If you want to contact me, you can email me at
+  <b>luanillogical@gmail.com</b>
+  or send me a message on Discord (<b>luanillogical</b>).<br/>
 
+  Se você quiser entrar em contato comigo, você pode me mandar um email
+  (<b>luanillogical@gmail.com</b>)
+  ou me mandar uma mensagem no Discord (<b>luanillogical</b>).<br/><br/>
 
+  <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png">
+  &nbsp;&nbsp;&nbsp;
+
+  <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png">
+  &nbsp;&nbsp;&nbsp;
+
+  <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png">
+  &nbsp;&nbsp;&nbsp;
+
+  <img width="67" src="https://api.nuget.org/v3-flatcontainer/microsoft.maui.graphics.msi.x64/9.0.90/icon">
+  &nbsp;&nbsp;&nbsp;
+
+  <img width="67" src="https://raw.githubusercontent.com/MonoGame/MonoGame.Logo/refs/heads/master/FullColorOnLight/LogoOnly_128px.png">
+  &nbsp;&nbsp;&nbsp;
+
+  <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png">
+  &nbsp;&nbsp;&nbsp;
+
+  <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png">
+  &nbsp;&nbsp;&nbsp;
+
+  <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png">
+  &nbsp;&nbsp;&nbsp;
+
+  <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png">
+  &nbsp;&nbsp;&nbsp;
+
+  <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png">
+  &nbsp;&nbsp;&nbsp;
+
+  <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png">
+  &nbsp;&nbsp;&nbsp;
+
+  <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png">
+  &nbsp;&nbsp;&nbsp;
+
+  <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png">
+  
+  <br/><br/>
+
+  <img
+    src="https://github-readme-stats-fast-sigma.vercel.app/api?username=LuanIllogical&show_icons=true&theme=tokyonight&show_private=true"
+  />
+</div>
