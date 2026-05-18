@@ -1,16 +1,7 @@
 <!--
 gud-repo-groups-start
-
-faculdade:
-- calc-quinta
-- Metalizar
-- notificacoes
-- pub-sub-store
-- micro-livraria
-
-fun:
-- luanillogical.github.io 
-
+faculdade: calc-quinta, Metalizar, notificacoes, pub-sub-store, micro-livraria
+fun: luanillogical.github.io 
 gud-repo-groups-end
 -->
 
