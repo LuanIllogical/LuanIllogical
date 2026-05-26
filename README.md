@@ -1,14 +1,16 @@
 <!--
-gud-repo-groups:
+gud-repo-groups: {
 University Assignments = calc-quinta, Metalizar, notificacoes, pub-sub-store, micro-livraria, weather-flubber, SisMME
 Personal Projects = luanillogical.github.io
-gud-background:
+}
+gud-background: {
 linear-gradient(to top,
       #750da8,
       #000960)
+}
 -->
 <!--
-language-begin = EN
+gud-language-begin = EN
 -->
 <div align="center">
 <h2>Hi there!</h2>
@@ -46,10 +48,10 @@ language-begin = EN
   />
   </div>
 <!--
-language-end = EN
+gud-language-end = EN
 -->
 <!--
-language-begin = PT-BR
+gud-language-begin = PT-BR
 <div align="center">
 <h2>Olá!</h2>
   <h3>Confira meu dossiê aqui <a href="https://luanillogical.github.io" target="_blank">luanillogical.github.io</a></h3>
@@ -86,5 +88,5 @@ language-begin = PT-BR
     src="https://github-readme-stats-fast-sigma.vercel.app/api?username=LuanIllogical&show_icons=true&theme=tokyonight&show_private=true"
   />
   </div>
-language-end = PT-BR
+gud-language-end = PT-BR
 -->
