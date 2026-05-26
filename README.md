@@ -1,7 +1,11 @@
 <!--
 gud-repo-groups:
 University Assignments = calc-quinta, Metalizar, notificacoes, pub-sub-store, micro-livraria, weather-flubber, SisMME
-Personal Projects = luanillogical.github.io 
+Personal Projects = luanillogical.github.io
+gud-background:
+linear-gradient(to top,
+      #750da8,
+      #000960)
 -->
 <!--
 language-begin = EN
