@@ -3,12 +3,11 @@ gud-repo-groups:
 University Assignments = calc-quinta, Metalizar, notificacoes, pub-sub-store, micro-livraria, weather-flubber, SisMME
 Personal Projects = luanillogical.github.io 
 -->
+<div align="center">
 <!--
 language-begin = EN
 -->
-<h2 align="center">Hi there!</h2>
-
-<div align="center">
+<h2>Hi there!</h2>
   <h3>Check out my dossier at <a href="https://luanillogical.github.io" target="_blank">luanillogical.github.io</a></h3>
 
   If you want to contact me, you can email me at
@@ -19,9 +18,7 @@ language-end = EN
 -->
 <!--
 language-begin = PT-BR
-<h2 align="center">Olá!</h2>
-
-<div align="center">
+<h2>Olá!</h2>
   <h3>Confira meu dossiê aqui <a href="https://luanillogical.github.io" target="_blank">luanillogical.github.io</a></h3>
 
   Se você quiser entrar em contato comigo, você pode me mandar um email
@@ -72,4 +69,17 @@ language-end = PT-BR
   <img
     src="https://github-readme-stats-fast-sigma.vercel.app/api?username=LuanIllogical&show_icons=true&theme=tokyonight&show_private=true"
   />
+
+<!--
+language-begin = EN
+-->
+<h2>Testing second tag</h2>
+<!--
+language-end = EN
+-->
+<!--
+language-begin = PT-BR
+<h2>Testando segunda tag</h2>
+language-end = PT-BR
+-->
 </div>
