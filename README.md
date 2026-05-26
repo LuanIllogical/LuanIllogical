@@ -1,10 +1,12 @@
 <!--
 gud-repo-groups:
-University Assignments = calc-quinta, Metalizar, notificacoes, pub-sub-store, micro-livraria, weather-flubber
-For Fun = luanillogical.github.io 
+University Assignments = calc-quinta, Metalizar, notificacoes, pub-sub-store, micro-livraria, weather-flubber, SisMME
+Personal Projects = luanillogical.github.io 
 -->
-
-<h2 align="center">Hi there! / Olá!</h2>
+<!--
+language-begin = EN
+-->
+<h2 align="center">Hi there!</h2>
 
 <div align="center">
   <h3>Check out my dossier at <a href="https://luanillogical.github.io" target="_blank">luanillogical.github.io</a></h3>
@@ -15,7 +17,21 @@ For Fun = luanillogical.github.io
   Se você quiser entrar em contato comigo, você pode me mandar um email
   (<b>luanillogical@gmail.com</b>)
   ou me mandar uma mensagem no Discord (<b>luanillogical</b>).<br/><br/>
+<!--
+language-end = EN
+-->
+<!--
+language-begin = PT-BR
+<h2 align="center">Olá!</h2>
 
+<div align="center">
+  <h3>Confira meu dossiê aqui <a href="https://luanillogical.github.io" target="_blank">luanillogical.github.io</a></h3>
+
+  Se você quiser entrar em contato comigo, você pode me mandar um email
+  (<b>luanillogical@gmail.com</b>)
+  ou me mandar uma mensagem no Discord (<b>luanillogical</b>).<br/><br/>
+language-end = PT-BR
+-->
   <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png">
   &nbsp;&nbsp;&nbsp;
 
