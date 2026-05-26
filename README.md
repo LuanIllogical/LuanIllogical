@@ -14,9 +14,6 @@ language-begin = EN
   If you want to contact me, you can email me at
   <b>luanillogical@gmail.com</b>
   or send me a message on Discord (<b>luanillogical</b>).<br/>
-  Se você quiser entrar em contato comigo, você pode me mandar um email
-  (<b>luanillogical@gmail.com</b>)
-  ou me mandar uma mensagem no Discord (<b>luanillogical</b>).<br/><br/>
 <!--
 language-end = EN
 -->
