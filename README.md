@@ -4,9 +4,7 @@ University Assignments = calc-quinta, Metalizar, notificacoes, pub-sub-store, mi
 Personal Projects = luanillogical.github.io
 }
 gud-background: {
-linear-gradient(to top,
-      #750da8,
-      #000960)
+linear-gradient(to top, #750da8, #000960)
 }
 -->
 <!--
