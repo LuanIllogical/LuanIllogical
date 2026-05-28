@@ -1,7 +1,9 @@
 <!--
 gud-repo-groups: {
 University Assignments = calc-quinta, Metalizar, notificacoes, pub-sub-store, micro-livraria, weather-flubber, SisMME
-Personal Projects = luanillogical.github.io
+Active Variety Projects = luanillogical.github.io, gud-api
+Inactive Variety Projects = Luhe, DecisionMaker5000
+Inactive Terraria Projects = BaseKits, TerrariaMusicPlayer, PotionOverhaul, ScaryScarecrow, WeaponAspects, MurderMystery, UntoldLegends
 }
 gud-background: {
 linear-gradient(to top, #750da8, #000960)
