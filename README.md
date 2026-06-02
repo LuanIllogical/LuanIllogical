@@ -34,11 +34,7 @@ gud-language-begin = EN
   <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png">
   &nbsp;&nbsp;&nbsp;
   <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png">
-  &nbsp;&nbsp;&nbsp;
-  <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png">
-  &nbsp;&nbsp;&nbsp;
-  <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png">
-  &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
   <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png">
   &nbsp;&nbsp;&nbsp;
   <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png">
@@ -75,10 +71,6 @@ gud-language-begin = PT-BR
   <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png">
   &nbsp;&nbsp;&nbsp;
   <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png">
-  &nbsp;&nbsp;&nbsp;
-  <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png">
-  &nbsp;&nbsp;&nbsp;
-  <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png">
   &nbsp;&nbsp;&nbsp;
   <img width="67" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png">
   &nbsp;&nbsp;&nbsp;
