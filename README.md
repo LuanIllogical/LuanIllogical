@@ -1,7 +1,7 @@
 <!--
 gud-repo-groups: {
-University Assignments = calc-quinta, Metalizar, notificacoes, pub-sub-store, micro-livraria, weather-flubber, SisMME
 Active Variety Projects = luanillogical.github.io, gud-api
+University Assignments = calc-quinta, Metalizar, notificacoes, pub-sub-store, micro-livraria, weather-flubber, SisMME
 Inactive Variety Projects = Luhe, DecisionMaker5000
 Inactive Terraria Projects = BaseKits, TerrariaMusicPlayer, PotionOverhaul, ScaryScarecrow, WeaponAspects, MurderMystery, UntoldLegends
 }
