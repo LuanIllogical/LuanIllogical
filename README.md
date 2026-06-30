@@ -8,11 +8,11 @@ Inactive Terraria Projects = BaseKits, TerrariaMusicPlayer, PotionOverhaul, Scar
 gud-background: {
 linear-gradient(to top, #750da8, #000960)
 }
-gud-custom-color-0: #998306
-gud-custom-color-1: #B39907	
-gud-custom-color-2: #CCAE08
-gud-custom-color-3: #E6C409
-gud-custom-color-4: #FFDA0A
+gud-custom-color-0: rgba(255, 218, 10, 0.06)
+gud-custom-color-1: rgba(255, 218, 10, 0.44)
+gud-custom-color-2: rgba(255, 218, 10, 0.55)
+gud-custom-color-3: rgba(255, 218, 10, 0.72)
+gud-custom-color-4: rgba(255, 218, 10, 0.90)
 -->
 <!--
 gud-language-begin = EN
