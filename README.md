@@ -15,10 +15,6 @@ rgba(255, 218, 10, 0.55)
 rgba(255, 218, 10, 0.72)
 rgba(255, 218, 10, 0.90)
 }
-gud-chart-group-colors: {
-"Other": #FF6B6B
-"Active Terraria Projects": #4ECDC4
-}
 -->
 <!--
 gud-language-begin = EN
